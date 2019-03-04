@@ -1,0 +1,13 @@
+###  R 3.5 packages
+deb https://cloud.r-project.org/bin/linux/ubuntu cosmic-cran35/
+
+###### Ubuntu Main Repos
+deb http://us.archive.ubuntu.com/ubuntu/ cosmic  main restricted universe multiverse
+
+###### Ubuntu Update Repos
+deb http://us.archive.ubuntu.com/ubuntu/ cosmic-security main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ cosmic-updates main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ cosmic-backports main restricted universe multiverse
+
+###### Ubuntu Partner Repo
+deb http://archive.canonical.com/ubuntu cosmic  partner
