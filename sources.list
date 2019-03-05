@@ -1,4 +1,7 @@
+### sudo apt install libcurl4-openssl-dev
+###
 ###  R 3.5 packages
+
 deb https://cloud.r-project.org/bin/linux/ubuntu cosmic-cran35/
 
 ###### Ubuntu Main Repos
